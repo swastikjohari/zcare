@@ -1,16 +1,18 @@
-# login
+TEAM NAME- THE Z-TEAM
 
-A new Flutter project.
+TEAM NUMBER- 10
 
-## Getting Started
+PROBLEM STATEMENT - ELDERLY CARE SYSYTEM 
 
-This project is a starting point for a Flutter application.
+PROBLEM NUMBER:-    AN319
 
-A few resources to get you started if this is your first Flutter project:
+TEAM MEMBERS:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+TEAM LEADER=  SWASTIK JOHARI-    RA1811003040241
+TEAM MEMBERS= JITENDER SAINI     RA1811003040101
+              SARTHAK SANGRA     RA1811003040024
+              BINOY JOHN         RA1811003040107
+              DHEEPAJYOTHIESHWAR RA1811003040228
+              ILA RAJ            RA1811003040090
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+DOMAIN - HEALTHCARE AND BIOMEDICAL DEVICES
