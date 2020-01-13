@@ -13,6 +13,7 @@ The main purpose of our application is to make kids,elderly people and abled ind
 		2.setting alarms to take medication
 		3.setting reminders for scheduling/attending appointments
 		4.one tap emergency calls to the nearest health centres
+		5.wallet to store money to purchase medicines
 
 It also provides a link between the user and the guardian to make sure that the guardian is kept updated about the user and knows if the user is taking his medications as needed and visiting the doctor as his appointments are scheduled.
 
